@@ -1,0 +1,14 @@
+.featured-poster {
+  position: relative;
+  width: 50%;
+  left: 25%;
+  display: static;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.posters {
+  position: relative;
+  display: inline-block;
+  padding-right: 3px;
+}
